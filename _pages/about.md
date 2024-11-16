@@ -10,7 +10,7 @@ redirect_from:
 Guobin Shen is a PhD student at the [Institute of Automation, Chinese Academy of Sciences](https://ia.cas.cn/), under the guidance of Prof. [Yi Zeng](https://braincog.ai/~yizeng/). Their research focuses on biologically inspired neural networks, machine learning, and their applications in cognitive science and artificial intelligence. They are particularly interested in integrating brain-inspired models with advanced AI systems, as well as exploring the safety and interpretability of large-scale models to address complex real-world challenges.
 
 
-Getting started
+<!-- Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
@@ -41,4 +41,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
