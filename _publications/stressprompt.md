@@ -1,10 +1,10 @@
 ---
 title: "StressPrompt: Does Stress Impact Large Language Models and Human Performance Similarly?"
 collection: publications
-category: LLM Stress Response
+category: preprints
 permalink: /publication/stressprompt
 date: 2024-10
-venue: 'Preprint'
+venue: 'Arxiv'
 paperurl: 'http://floyeshen.github.io/files/stressprompt.pdf'
 citation: 'Shen, G., Zhao, D., Bao, A., He, X., Dong, Y., & Zeng, Y. (2024). StressPrompt: Does Stress Impact Large Language Models and Human Performance Similarly? arXiv preprint arXiv:2409.17167.'
 

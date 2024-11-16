@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
   location         : "Beijing, China"
-  employer         : "Institute of Automation, \nChinese Academy of Sciences"
+  employer         : "Institute of Automation, CAS"
   uri              : # URL
   email            : "shenguobin2021@ia.ac.cn" 
 
@@ -76,8 +76,8 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
+  preprints:
+    title: 'Preprints'
   manuscripts:
     title: 'Journal Articles'    
   conferences:

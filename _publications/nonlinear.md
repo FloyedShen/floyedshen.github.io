@@ -1,10 +1,10 @@
 ---
 title: "Exploiting nonlinear dendritic adaptive computation in training deep Spiking Neural Networks."
 collection: publications
-category:  Spiking Neural Networks
+category: manuscripts
 permalink: /publication/nonlinear
 date: 2023-9
-venue: 'Journal'
+venue: 'Neural Networks'
 paperurl: 'http://floyeshen.github.io/files/nonlinear.pdf'
 citation: 'Shen, G., Zhao, D., Shen, S., & Zeng, Y. (2024). Exploiting nonlinear dendritic adaptive computation in training deep Spiking Neural Networks. Neural Networks, 170, 190–201. Elsevier.'
 

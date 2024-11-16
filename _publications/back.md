@@ -1,10 +1,10 @@
 ---
 title: "Backpropagation with biologically plausible spatiotemporal adjustment for training deep spiking neural networks"
 collection: publications
-category:  Spiking Neural Networks
+category: manuscripts
 permalink: /publication/back
 date: 2023-9
-venue: 'Journal'
+venue: 'Patterns'
 paperurl: 'http://floyeshen.github.io/files/back.pdf'
 citation: 'Shen, G., Zhao, D., & Zeng, Y. (2022). Backpropagation with biologically plausible spatiotemporal adjustment for training deep spiking neural networks. Patterns, 3(6). Elsevier.'
 

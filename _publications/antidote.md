@@ -1,10 +1,10 @@
 ---
 title: "Jailbreak Antidote: Runtime Safety-Utility Balance via Sparse Representation Adjustment in Large Language Models"
 collection: publications
-category: LLM Jailbreak Defense
+category: preprints
 permalink: /publication/antidote
 date: 2024-10
-venue: 'Preprint'
+venue: 'Arxiv'
 paperurl: 'http://floyeshen.github.io/files/antidote.pdf'
 citation: 'Shen, G., Zhao, D., Dong, Y., He, X., & Zeng, Y. (2024). Jailbreak Antidote: Runtime Safety-Utility Balance via Sparse Representation Adjustment in Large Language Models. arXiv preprint arXiv:2410.02298.'
 

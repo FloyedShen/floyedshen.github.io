@@ -1,10 +1,10 @@
 ---
 title: "Neuro-Vision to Language: Image Reconstruction and Interaction via Non-invasive Brain Recordings."
 collection: publications
-category: Multi-modal Language Models, fMRI
+category: conferences
 permalink: /publication/neuro-vision
 date: 2023-9
-venue: 'Conference'
+venue: 'Advances in Neural Information Processing Systems'
 paperurl: 'http://floyeshen.github.io/files/neuro-vision.pdf'
 citation: 'Shen, G., Zhao, D., He, X., Feng, L., Dong, Y., Wang, J., Zhang, Q., & Zeng, Y. (2024). Neuro-Vision to Language: Image Reconstruction and Interaction via Non-invasive Brain Recordings. Advances in Neural Information Processing Systems.'
 
