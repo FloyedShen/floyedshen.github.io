@@ -1,7 +1,7 @@
 ---
 title: "StressPrompt: Does Stress Impact Large Language Models and Human Performance Similarly?"
 collection: publications
-category: preprints
+category: conferences
 permalink: /publication/stressprompt
 date: 2024-10
 venue: 'Arxiv'
