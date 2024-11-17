@@ -1,7 +1,7 @@
 ---
 title: "Astrocyte-Enabled Advancements in Spiking Neural Networks for Large Language Modeling"
 collection: publications
-category: conferences
+category: preprints
 permalink: /publication/astrocyte
 date: 2023-11
 venue: 'Arxiv'

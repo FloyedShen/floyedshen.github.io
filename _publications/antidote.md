@@ -1,7 +1,7 @@
 ---
 title: "Jailbreak Antidote: Runtime Safety-Utility Balance via Sparse Representation Adjustment in Large Language Models"
 collection: publications
-category: conferences
+category: preprints
 permalink: /publication/antidote
 date: 2024-10
 venue: 'Arxiv'
