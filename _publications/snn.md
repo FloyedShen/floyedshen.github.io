@@ -3,7 +3,7 @@ title: "Are Conventional SNNs Really Efficient? A Perspective from Network Quant
 collection: publications
 category: conferences
 permalink: /publication/snn
-date: 2024-2
+date: 2024-06-16
 venue: 'Conference on Computer Vision and Pattern Recognition'
 paperurl: 'http://floyeshen.github.io/files/snn.pdf'
 citation: 'Shen, G., Zhao, D., Li, T., Li, J., & Zeng, Y. (2024). Are Conventional SNNs Really Efficient? A Perspective from Network Quantization. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 27538–27547).'

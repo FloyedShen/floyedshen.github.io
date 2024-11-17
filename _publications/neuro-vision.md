@@ -3,7 +3,7 @@ title: "Neuro-Vision to Language: Image Reconstruction and Interaction via Non-i
 collection: publications
 category: conferences
 permalink: /publication/neuro-vision
-date: 2023-9
+date: 2024-05-01
 venue: 'Advances in Neural Information Processing Systems'
 paperurl: 'http://floyeshen.github.io/files/neuro-vision.pdf'
 citation: 'Shen, G., Zhao, D., He, X., Feng, L., Dong, Y., Wang, J., Zhang, Q., & Zeng, Y. (2024). Neuro-Vision to Language: Image Reconstruction and Interaction via Non-invasive Brain Recordings. Advances in Neural Information Processing Systems.'

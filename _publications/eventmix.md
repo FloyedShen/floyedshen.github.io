@@ -3,7 +3,7 @@ title: "Eventmix: An efficient data augmentation strategy for event-based learni
 collection: publications
 category: manuscripts
 permalink: /publication/eventmix
-date: 2023-9
+date: 2023-10-16
 venue: 'Information Sciences'
 paperurl: 'http://floyeshen.github.io/files/eventmix.pdf'
 citation: 'Shen, G., Zhao, D., & Zeng, Y. (2023). Eventmix: An efficient data augmentation strategy for event-based learning. Information Sciences, 644, 119170. Elsevier.'
