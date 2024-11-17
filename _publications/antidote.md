@@ -5,7 +5,7 @@ category: preprints
 permalink: /publication/antidote
 date: 2024-10-7
 venue: 'Arxiv'
-paperurl: 'http://floyeshen.github.io/files/antidote.pdf'
+paperurl: 'https://raw.githubusercontent.com/FloyedShen/FloyedShen.github.io/master/files/antidote.pdf'
 citation: 'Shen, G., Zhao, D., Dong, Y., He, X., & Zeng, Y. (2024). Jailbreak Antidote: Runtime Safety-Utility Balance via Sparse Representation Adjustment in Large Language Models. arXiv preprint arXiv:2410.02298.'
 ---
 

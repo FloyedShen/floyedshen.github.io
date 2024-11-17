@@ -5,7 +5,7 @@ category: preprints
 permalink: /publication/astrocyte
 date: 2023-12-25
 venue: 'Arxiv'
-paperurl: 'http://floyeshen.github.io/files/astrocyte.pdf'
+paperurl: 'https://raw.githubusercontent.com/FloyedShen/FloyedShen.github.io/master/files/astrocyte.pdf'
 citation: 'Shen, G., Zhao, D., Dong, Y., Li, Y., Li, J., Sun, K., & Zeng, Y. (2023). Astrocyte-Enabled Advancements in Spiking Neural Networks for Large Language Modeling. arXiv preprint arXiv:2312.07625.'
 ---
 

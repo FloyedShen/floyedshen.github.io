@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/neuevo
 date: 2023-09-26
 venue: 'Proceedings of the National Academy of Sciences'
-paperurl: 'http://floyeshen.github.io/files/neuevo.pdf'
+paperurl: 'https://raw.githubusercontent.com/FloyedShen/FloyedShen.github.io/master/files/neuevo.pdf'
 citation: 'Shen, G., Zhao, D., Dong, Y., & Zeng, Y. (2023). Brain-inspired neural circuit evolution for spiking neural networks. Proceedings of the National Academy of Sciences, 120(39), e2218173120. National Acad Sciences.'
 ---
 

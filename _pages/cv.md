@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can also find my CV [here](http://floyeshen.github.io/files/Guobin_Shen_CV.pdf).
+You can also find my CV [here](https://raw.githubusercontent.com/FloyedShen/FloyedShen.github.io/master/files/Guobin_Shen_CV.pdf).
 
 {% include base_path %}
 

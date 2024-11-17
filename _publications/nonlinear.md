@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/nonlinear
 date: 2024-02-01
 venue: 'Neural Networks'
-paperurl: 'http://floyeshen.github.io/files/nonlinear.pdf'
+paperurl: 'https://raw.githubusercontent.com/FloyedShen/FloyedShen.github.io/master/files/nonlinear.pdf'
 citation: 'Shen, G., Zhao, D., Shen, S., & Zeng, Y. (2024). Exploiting nonlinear dendritic adaptive computation in training deep Spiking Neural Networks. Neural Networks, 170, 190–201. Elsevier.'
 ---
 

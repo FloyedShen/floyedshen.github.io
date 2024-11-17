@@ -12,35 +12,55 @@ Guobin Shen is a fourth-year PhD student at the [Institute of Automation, Chines
 
 News
 ======
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <div style="width: 20%; margin-right: 20px;">
-    <img src="http://floyeshen.github.io/images/publication_preview/shen2024jailbreak.jpg" alt="JAILBREAK ANTIDOTE" style="width: 100%;">
+<style>
+  img:hover {
+    transform: scale(1.5); /* 图片放大到 1.2 倍 */
+  }
+</style>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="width: 25%; margin-right: 20px;">
+    <a href="https://arxiv.org/abs/2410.02298" target="_blank">
+      <img src="https://raw.githubusercontent.com/FloyedShen/FloyedShen.github.io/master/images/publication_preview/shen2024jailbreak.jpg" 
+           alt="JAILBREAK ANTIDOTE" 
+           style="width: 100%; max-height: 120px; object-fit: cover;">
+    </a>
   </div>
-  <div style="width: 80%;">
+  <div style="width: 75%;">
     <h3>"JAILBREAK ANTIDOTE" Now Available on arXiv</h3>
     <p>We introduce <strong>JAILBREAK ANTIDOTE</strong>, a method for balancing safety and utility in LLMs through real-time sparse state adjustment. This approach offers a practical way to counter jailbreak attacks while maintaining efficiency. <a href="https://arxiv.org/abs/2410.02298" target="_blank">Read more on arXiv</a>.</p>
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <div style="width: 20%; margin-right: 20px;">
-    <img src="http://floyeshen.github.io/images/publication_preview/shen2024stressprompt.jpg" alt="StressPrompt" style="width: 100%;">
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="width: 25%; margin-right: 20px;">
+    <a href="https://arxiv.org/abs/2409.17167" target="_blank">
+      <img src="https://raw.githubusercontent.com/FloyedShen/FloyedShen.github.io/master/images/publication_preview/shen2024stressprompt.jpg" 
+           alt="StressPrompt" 
+           style="width: 100%; max-height: 120px; object-fit: cover;">
+    </a>
   </div>
-  <div style="width: 80%;">
+  <div style="width: 75%;">
     <h3>StressPrompt: Studying Stress in LLMs and Humans</h3>
     <p>Our work <strong>StressPrompt</strong> examines how stress impacts LLM performance, revealing a pattern similar to the Yerkes-Dodson law in humans. This study provides a new perspective on AI robustness in dynamic scenarios. <a href="https://arxiv.org/abs/2409.17167" target="_blank">Read more on arXiv</a>.</p>
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <div style="width: 20%; margin-right: 20px;">
-    <img src="http://floyeshen.github.io/images/publication_preview/shen2024neuro.jpg" alt="Neuro-Vision to Language" style="width: 100%;">
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="width: 25%; margin-right: 20px;">
+    <a href="https://openreview.net/forum?id=41YezeHjNH" target="_blank">
+      <img src="https://raw.githubusercontent.com/FloyedShen/FloyedShen.github.io/master/images/publication_preview/shen2024neuro.jpg" 
+           alt="Neuro-Vision to Language" 
+           style="width: 100%; max-height: 120px; object-fit: cover;">
+    </a>
   </div>
-  <div style="width: 80%;">
+  <div style="width: 75%;">
     <h3>Neuro-Vision to Language Accepted at NeurIPS 2024</h3>
     <p>We are pleased to share that <strong>Neuro-Vision to Language</strong>, a framework for decoding brain signals into images and language, has been accepted at NeurIPS 2024. This work contributes to advancements in brain-computer interfaces and cognitive models. <a href="https://openreview.net/forum?id=41YezeHjNH" target="_blank">Learn more</a>.</p>
   </div>
 </div>
+
+
 
 
 
