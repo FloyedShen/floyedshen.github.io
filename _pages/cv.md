@@ -63,3 +63,24 @@ Teaching
 <!-- Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
+
+
+
+Awards and Honors
+========
+
+- **National Scholarship (Undergraduate)**  
+  - Prestigious award granted by the Chinese Government for outstanding overall performance, including academic excellence, extracurricular activities, and leadership.  
+  - **2019**, **2020**
+
+- **National Scholarship (Doctoral Student)**  
+  - Prestigious scholarship awarded for exceptional research contributions and academic achievements.  
+  - **2024**
+
+- **National Second Prize, National Undergraduate Electronic Design Competition**  
+  - Recognized for excellence in electronic design among national competitors.  
+  - **2019**
+
+- **Runner-Up, International Aerial Robotics Competition (Asia-Pacific Region)**  
+  - Achieved second place in an international robotics competition, showcasing innovation in aerial robotics.  
+  - **2019**
