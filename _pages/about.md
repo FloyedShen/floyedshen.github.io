@@ -20,6 +20,22 @@ News
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="width: 25%; margin-right: 20px;">
+    <a href="https://ieeexplore.ieee.org/abstract/document/10754657" target="_blank">
+      <img src="https://raw.githubusercontent.com/FloyedShen/FloyedShen.github.io/master/images/publication_preview/firefly_s.jpg" 
+           alt="FireFly-S" 
+           style="width: 100%; max-height: 120px; object-fit: cover;">
+    </a>
+  </div>
+  <div style="width: 75%;">
+    <h3>Our Work on Dual-Side Sparsity SNN Acceleration Accepted by IEEE TCAS-I</h3>
+    <p>We are excited to announce that our paper, <strong>FireFly-S: Exploiting Dual-Side Sparsity for Spiking Neural Networks Acceleration With Reconfigurable Spatial Architecture</strong>, has been accepted by <em>IEEE TCAS-I</em>. This work showcases our innovative dual-side sparsity design, delivering state-of-the-art efficiency in Spiking Neural Networks. <a href="https://ieeexplore.ieee.org/abstract/document/10754657" target="_blank">Learn more</a>.</p>
+  </div>
+</div>
+
+
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="width: 25%; margin-right: 20px;">
     <a href="https://arxiv.org/abs/2410.02298" target="_blank">
       <img src="https://raw.githubusercontent.com/FloyedShen/FloyedShen.github.io/master/images/publication_preview/shen2024jailbreak.jpg" 
            alt="JAILBREAK ANTIDOTE" 
