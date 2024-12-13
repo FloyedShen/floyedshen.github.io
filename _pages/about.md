@@ -20,6 +20,36 @@ News
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="width: 25%; margin-right: 20px;">
+    <a href="https://arxiv.org/abs/2409.17167" target="_blank">
+      <img src="https://raw.githubusercontent.com/FloyedShen/FloyedShen.github.io/master/images/publication_preview/shen2024stressprompt.jpg" 
+           alt="StressPrompt" 
+           style="width: 100%; max-height: 120px; object-fit: cover;">
+    </a>
+  </div>
+  <div style="width: 75%;">
+    <h3><strong>StressPrompt</strong>  Accepted by AAAI-2025</h3>
+    <p>Our work <strong>StressPrompt</strong> examines how stress impacts LLM performance, revealing a pattern similar to the Yerkes-Dodson law in humans. This study provides a new perspective on AI robustness in dynamic scenarios. <a href="https://arxiv.org/abs/2409.17167" target="_blank">Read more on arXiv</a>.</p>
+  </div>
+</div>
+
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="width: 25%; margin-right: 20px;">
+    <a href="https://ieeexplore.ieee.org/abstract/document/10770274" target="_blank">
+      <img src="https://raw.githubusercontent.com/FloyedShen/FloyedShen.github.io/master/images/publication_preview/pan2024tevc.png" 
+           alt="MSE-NAS" 
+           style="width: 100%; max-height: 120px; object-fit: cover;">
+    </a>
+  </div>
+  <div style="width: 75%;">
+    <h3><strong>Brain-Inspired Multi-Scale Evolutionary Neural Architecture Search for Deep Spiking Neural Networks</strong></h3>
+    <p>Our research proposes <strong>MSE-NAS</strong>, the first evolutionary framework for Spiking Neural Networks (SNNs) inspired by multi-scale brain topologies. By integrating micro-, meso-, and macro-scale brain structures, MSE-NAS optimizes biologically realistic neural models, achieving superior performance on both static and neuromorphic datasets. This work underscores the value of Evolutionary Computation in advancing brain-inspired intelligence. <a href="https://ieeexplore.ieee.org/abstract/document/10770274" target="_blank">Read more in IEEE Transactions on Evolutionary Computation (2024)</a>.</p>
+  </div>
+</div>
+
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="width: 25%; margin-right: 20px;">
     <a href="https://ieeexplore.ieee.org/abstract/document/10754657" target="_blank">
       <img src="https://raw.githubusercontent.com/FloyedShen/FloyedShen.github.io/master/images/publication_preview/firefly_s.jpg" 
            alt="FireFly-S" 
@@ -50,15 +80,15 @@ News
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="width: 25%; margin-right: 20px;">
-    <a href="https://arxiv.org/abs/2409.17167" target="_blank">
-      <img src="https://raw.githubusercontent.com/FloyedShen/FloyedShen.github.io/master/images/publication_preview/shen2024stressprompt.jpg" 
-           alt="StressPrompt" 
+    <a href="https://ieeexplore.ieee.org/abstract/document/10691937" target="_blank">
+      <img src="https://raw.githubusercontent.com/FloyedShen/FloyedShen.github.io/master/images/publication_preview/han2024tpami.png" 
+           alt="DPAP" 
            style="width: 100%; max-height: 120px; object-fit: cover;">
     </a>
   </div>
   <div style="width: 75%;">
-    <h3>StressPrompt: Studying Stress in LLMs and Humans</h3>
-    <p>Our work <strong>StressPrompt</strong> examines how stress impacts LLM performance, revealing a pattern similar to the Yerkes-Dodson law in humans. This study provides a new perspective on AI robustness in dynamic scenarios. <a href="https://arxiv.org/abs/2409.17167" target="_blank">Read more on arXiv</a>.</p>
+    <h3><strong>Developmental Plasticity-Inspired Adaptive Pruning for Deep Spiking and Artificial Neural Networks</strong></h3>
+    <p><strong>DPAP</strong> introduces a groundbreaking pruning strategy inspired by brain developmental plasticity, enabling dynamic optimization of network structures without pre-training or retraining. By leveraging biologically realistic mechanisms, DPAP achieves extreme compression and speed boosts while maintaining state-of-the-art performance on diverse benchmarks for both ANNs and SNNs. <a href="https://ieeexplore.ieee.org/abstract/document/10691937" target="_blank">Read more in IEEE Transactions on Pattern Analysis and Machine Intelligence (2024)</a>.</p>
   </div>
 </div>
 

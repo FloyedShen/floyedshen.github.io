@@ -1,0 +1,12 @@
+---
+title: "Brain-Inspired Multi-Scale Evolutionary Neural Architecture Search for Deep Spiking Neural Networks"
+collection: publications
+category: manuscripts
+permalink: /publication/pan2024tevc
+date: 2024-09-14
+venue: 'IEEE Transactions on Evolutionary Computation'
+paperurl: 'https://raw.githubusercontent.com/FloyedShen/FloyedShen.github.io/master/files/pan2024tevc.pdf'
+citation: 'Pan, W., Zhao, F., Shen, G., Han, B., & Zeng, Y. (2024). Brain-Inspired Multi-Scale Evolutionary Neural Architecture Search for Deep Spiking Neural Networks. IEEE Transactions on Evolutionary Computation.'
+---
+
+Spiking Neural Networks (SNNs) have been widely applied not only for their advantages in energy efficiency with discrete signal processing but also for their natural suitability to integrate multi-scale biological plasticity. However, most SNNs still adopt the structure of the well-established Deep Neural Networks (DNNs), with few attempts at implementing automatic Neural Architecture Search (NAS) for SNNs. The neural motifs topology, modular regional structures, and global cross-brain region connections in the human brain are the product of natural evolution, serving as a perfect reference for designing brain-inspired SNN architecture. Here, we propose an efficient Multi-Scale Evolutionary Neural Architecture Search (MSE-NAS) for SNN, simultaneously considering micro-, meso-and macro-scale brain topologies as the evolutionary search space and is supplemented with customized Brain-inspired Indirect Evaluation (BIE) function, encoding scheme and genetic operations. This is the first instance that the evolutionary characteristics of microconnections and electrophysiological patterns have been incorporated into one single evolutionary framework. The proposal of MSE-NAS proves that the evolutionary structure and mechanism of the human brain can essentially help better handle artificial intelligence tasks, revealing the important value and key role of integrating Evolutionary Computation (EC) principles in optimizing biologically realistic neural models. Extensive experiments demonstrate that MSE-NAS achieves superior performance with shorter simulation steps on static datasets (CIFAR10, CIFAR100) and neuromorphic datasets (CIFAR10-DVS and DVS128-Gesture). More importantly, the emergence of general capabilities such as transferability and robustness brought about by evolution confirms the innovative progress and important value of EC in the field of brain-inspired intelligence.

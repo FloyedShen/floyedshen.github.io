@@ -1,0 +1,19 @@
+current directory: /Users/floyed/Documents/workplace/FloyedShen.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/floyed/Documents/workplace/FloyedShen.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20241213-44071-90szsi sitelibdir\=./.gem.20241213-44071-90szsi clean
+
+current directory: /Users/floyed/Documents/workplace/FloyedShen.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20241213-44071-90szsi sitelibdir\=./.gem.20241213-44071-90szsi
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+current directory: /Users/floyed/Documents/workplace/FloyedShen.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20241213-44071-90szsi sitelibdir\=./.gem.20241213-44071-90szsi install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20241213-44071-90szsi
+
+current directory: /Users/floyed/Documents/workplace/FloyedShen.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20241213-44071-90szsi sitelibdir\=./.gem.20241213-44071-90szsi clean

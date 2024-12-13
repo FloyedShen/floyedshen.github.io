@@ -1,0 +1,12 @@
+---
+title: "Developmental Plasticity-Inspired Adaptive Pruning for Deep Spiking and Artificial Neural Networks"
+collection: publications
+category: manuscripts
+permalink: /publication/han2024tpami
+date: 2024-09-14
+venue: 'Developmental Plasticity-Inspired Adaptive Pruning for Deep Spiking and Artificial Neural Networks'
+paperurl: 'https://raw.githubusercontent.com/FloyedShen/FloyedShen.github.io/master/files/han2024tpami.pdf'
+citation: 'Han, B., Zhao, F., Zeng, Y., & Shen, G. (2024). Developmental plasticity-inspired adaptive pruning for deep spiking and artificial neural networks. IEEE Transactions on Pattern Analysis and Machine Intelligence.'
+---
+
+Developmental plasticity plays a prominent role in shaping the brain’s structure during ongoing learning in response to dynamically changing environments. However, the existing network compression methods for deep artificial neural networks (ANNs) and spiking neural networks (SNNs) draw little inspiration from brain’s developmental plasticity mechanisms, thus limiting their ability to learn efficiently, rapidly, and accurately. This paper proposed a developmental plasticity-inspired adaptive pruning (DPAP) method, with inspiration from the adaptive developmental pruning of dendritic spines, synapses, and neurons according to the “use it or lose it, gradually decay” principle. The proposed DPAP model considers multiple biologically realistic mechanisms (such as dendritic spine dynamic plasticity, activity-dependent neural spiking trace, and local synaptic plasticity), with additional adaptive pruning strategy, so that the network structure can be dynamically optimized during learning without any pre-training and retraining. Extensive comparative experiments show consistent and remarkable performance and speed boost with the extremely compressed networks on a diverse set of benchmark tasks for deep ANNs and SNNs, especially the spatio-temporal joint pruning of SNNs in neuromorphic datasets. This work explores how developmental plasticity enables complex deep networks to gradually evolve into brain-like efficient and compact structures, eventually achieving state-of-the-art (SOTA) performance for biologically realistic SNNs.
